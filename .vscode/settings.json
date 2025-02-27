@@ -51,6 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "HARIA.sln",
+    "dotnet.defaultSolution": "HARIA-AR-Demo.sln",
     "git.ignoreLimitWarning": true
 }
